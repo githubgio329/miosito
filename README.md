@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <script> 
+  let testo = "ciaoo" ; 
+  alert(testo);
+  </script> 
+</body> 
+</html>
